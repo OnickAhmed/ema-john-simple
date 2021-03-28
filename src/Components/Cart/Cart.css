@@ -1,0 +1,9 @@
+.billSection{
+    display: flex;
+}
+.bill{
+    width: 70%;
+}
+.price{
+    width: 30%;
+}
